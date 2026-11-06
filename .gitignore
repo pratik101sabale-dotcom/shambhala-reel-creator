@@ -1,0 +1,39 @@
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Secrets and credentials
+secrets/
+secrets.*
+credentials.*
+token.*
+tokens.*
+*.token
+*.pem
+*.key
+*.p12
+*.pfx
+client_secret*.json
+service_account*.json
+
+# Logs can capture sensitive data
+*.log
+logs/
+
+# Local Instagram drafts and their publish locks
+drafts/
+
+# Your music, licence records and rendered Reel previews
+reels/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Machine-specific client setup and private reports
+.mcp.json
+.claude/
+instagram_analytics_report.md

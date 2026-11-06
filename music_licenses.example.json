@@ -1,0 +1,14 @@
+{
+  "tracks": [
+    {
+      "file": "example-track.mp3",
+      "title": "Example Track",
+      "artist": "Example Artist",
+      "moods": ["calm", "uplifting"],
+      "license_type": "purchased_license",
+      "business_use_verified": false,
+      "proof": "Where your licence is kept, such as C:\\Licences\\example-track-receipt.pdf",
+      "expires": "2030-12-31"
+    }
+  ]
+}

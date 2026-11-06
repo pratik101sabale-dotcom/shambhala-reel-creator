@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "shambhala-instagram": {
+      "command": "C:/path/to/shambhala-reel-creator/.venv/Scripts/python.exe",
+      "args": [
+        "C:/path/to/shambhala-reel-creator/instagram_mcp_server.py"
+      ]
+    }
+  }
+}
